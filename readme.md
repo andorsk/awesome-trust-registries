@@ -23,12 +23,14 @@ A curated list of trust registry systems
 - [Northern Block](https://northernblock.io/tag/trust-registry/) : Higher assurance trust registry leveraging DNSSec.
 - [Trinsic](https://docs.trinsic.id/reference/services/trust-registry-service/) : Trust Registry API using Trust Over IP's Trust Registry Protocol v1 spec. 
 - [CIRA](https://dtlab-labcn.org/en/trust-registry-canadian-internet-registry-authority-cira/): Canadian Internet Registration Authority
-
-## Terminology and Definitions
+- [Who.is[https://www.whois.com/whois/whois.net) : A Whois domain lookup allows you to trace the ownership and tenure of a domain name. 
 
 ## SDK's 
 
-ssi service
+- [Dock SDK](https://docs.dock.io/open-source-community/blockchain-sdk/trust-registry/sdk)
+- [Trinsic SDK](https://github.com/trinsic-id/sdk)
+- [TBD SSI Service](https://github.com/TBD54566975/ssi-service)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
