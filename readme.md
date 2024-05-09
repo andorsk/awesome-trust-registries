@@ -21,13 +21,14 @@ A curated list of trust registry systems
 - [Cheqd](https://docs.cheqd.io/identity/advanced/trust-infrastructure) : Leverages the EBSI Trust Chain Model over DID Linked Resources. 
 - [TRAIN](https://train.trust-scheme.de/info/) : The approach allows for the flexible definition, consideration and publication of trust lists as well as the verification of trust framework compliance (e.g., eIDAS including LoAs or other trust framework/schemes that can also be application/industry-specific) with different Levels of Assurance (LoA), using DNS(SEC) as a root trust anchor. 
 - [Northern Block](https://northernblock.io/tag/trust-registry/) : Higher assurance trust registry leveraging DNSSec.
-- [Trinsic](https://docs.trinsic.id/reference/services/trust-registry-service/) : Trust Regsitry API using Trust Over IP's Trust Registry Protocol v1 spec. 
+- [Trinsic](https://docs.trinsic.id/reference/services/trust-registry-service/) : Trust Registry API using Trust Over IP's Trust Registry Protocol v1 spec. 
 - [CIRA](https://dtlab-labcn.org/en/trust-registry-canadian-internet-registry-authority-cira/): Canadian Internet Registration Authority
 
 ## Terminology and Definitions
 
 ## SDK's 
 
+ssi service
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
