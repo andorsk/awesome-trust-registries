@@ -12,14 +12,20 @@ A curated list of trust registry systems
 
 - [x509 Certs](https://en.wikipedia.org/wiki/X.509): A standard defining the format of public key certificates used as a basis for HTTPS and TLS. 
 - [Credential Trust Establishment](https://identity.foundation/credential-trust-establishment/): A document model that describes whether a user should trust the issuer of this credential?. 
+- [EBSI Trust Chains](https://hub.ebsi.eu/get-started/design/trust-chain) : An interaction model which defines three roles: Root Trusted Accreditation Organisation (Root TAO), Trusted Accreditation Organisation(s) (TAOs), and Trusted Issuer(s) (TIs).
+- [W3C Verified Issuer / Verifier Verifier List Data Model](https://w3c-ccg.github.io/verifiable-issuers-verifiers/) : This work focuses on how a party or its agent can decide whether or not to engage with a counterparty in a transaction. 
 
 ## Providers
 
-- [TRAIN]()
-- [EU Trust Lists](https://eidas.ec.europa.eu/efda/tl-browser/#/screen/home)
+- [EU Trust Lists](https://eidas.ec.europa.eu/efda/tl-browser/#/screen/home) : The Member States of the European Union and European Economic Area publish trusted lists of qualified trust service providers in accordance with the eIDAS Regulation.
+- [Cheqd](https://docs.cheqd.io/identity/advanced/trust-infrastructure) : Leverages the EBSI Trust Chain Model over DID Linked Resources. 
+- [TRAIN](https://train.trust-scheme.de/info/) : The approach allows for the flexible definition, consideration and publication of trust lists as well as the verification of trust framework compliance (e.g., eIDAS including LoAs or other trust framework/schemes that can also be application/industry-specific) with different Levels of Assurance (LoA), using DNS(SEC) as a root trust anchor. 
+- [Northern Block](https://northernblock.io/tag/trust-registry/) : Higher assurance trust registry leveraging DNSSec.
+- [Trinsic](https://docs.trinsic.id/reference/services/trust-registry-service/) : Trust Regsitry API
 
+## Terminology and Definitions
 
-## Terminology
+## SDK's 
 
 ## Contribute
 
