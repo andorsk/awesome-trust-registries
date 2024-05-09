@@ -1,6 +1,6 @@
 # awesome-trust-registries [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of trust registry systems
+A curated list of trust registry systems and adjacent technology.
 
 ## Protocols
 
