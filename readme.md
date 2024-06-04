@@ -46,7 +46,7 @@ A curated list of trust registry systems and adjacent technology.
 
 ## Workshops
 
-[Registration Operations Workshop (ROW)](https://regiops.net/registration-operations-workshop-row) : Informal industry conference that offers a platform for discussing the technical intricacies of registration operations within the domain name system.
+- [Registration Operations Workshop (ROW)](https://regiops.net/registration-operations-workshop-row) : Informal industry conference that offers a platform for discussing the technical intricacies of registration operations within the domain name system.
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
