@@ -9,6 +9,7 @@ A curated list of trust registry systems and adjacent technology.
 - [Open ID Federation \(OIDF\)](https://openid.net/specs/openid-federation-1_0.html) : A specification that describes how two Entities that would like to interact can establish trust between them by means of a trusted third party called a Trust Anchor.
 - [Trust Registry Protocol v2](https://github.com/trustoverip/tswg-trust-registry-protocol) : API based protocol that asks: `Does Entity X have Authorization Y, in the context of Ecosystem Governance Framework Z?`
 - [WHOIS](https://www.rfc-editor.org/rfc/rfc3912) :  WHOIS is a TCP-based transaction-oriented query/response protocol that is widely used to provide information services to Internet users.
+- [Registry Lock](https://en.wikipedia.org/wiki/Registrar-Lock) : Status code set by registrar intended to combats domain hijacking.
 - [RDAP](https://www.icann.org/rdap) : IETF based protocol that enables users to access current registration data and was created as an eventual replacement for the WHOIS protocol. 
 - [RPKI](https://en.wikipedia.org/wiki/Resource_Public_Key_Infrastructure) : proves the association between specific IP address blocks or ASNs and the holders of those Internet number resources. 
 
