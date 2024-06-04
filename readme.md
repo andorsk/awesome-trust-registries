@@ -27,7 +27,6 @@ A curated list of trust registry systems and adjacent technology.
 - [TRAIN](https://train.trust-scheme.de/info/) : The approach allows for the flexible definition, consideration and publication of trust lists as well as the verification of trust framework compliance (e.g., eIDAS including LoAs or other trust framework/schemes that can also be application/industry-specific) with different Levels of Assurance (LoA), using DNS(SEC) as a root trust anchor. 
 - [Who.is](https://www.whois.com/whois/whois.net) : A Whois domain lookup allows you to trace the ownership and tenure of a domain name. 
 
-
 ## SDK's 
 
 - [Cheqd SDK](https://github.com/cheqd/sdk) : A TypeScript SDK built with CosmJS to interact with cheqd network ledger
@@ -36,6 +35,10 @@ A curated list of trust registry systems and adjacent technology.
 - [Trinsic SDK](https://github.com/trinsic-id/sdk) : Trust Registry v1 API SDK
 - [TBD SSI Service](https://github.com/TBD54566975/ssi-service) : A golang service that allows you to build Trust Registries. 
 - [Sunbird RC Cord](https://github.com/Sunbird-RC/sunbird-rc-core) : Sunbird RC is an open-source software framework for rapidly building electronic registries, enable atestation capabilities, and build verifiable credentialling with minimal effort.
+
+## Ecosystems 
+
+- [Ethiopian Internet Foundation](https://www.internet.ee/) : Estonia's trust infrastructure.
 
 ## Contribute
 
