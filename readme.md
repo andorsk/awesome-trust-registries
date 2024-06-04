@@ -35,6 +35,7 @@ A curated list of trust registry systems and adjacent technology.
 - [Trinsic SDK](https://github.com/trinsic-id/sdk) : Trust Registry v1 API SDK
 - [TBD SSI Service](https://github.com/TBD54566975/ssi-service) : A golang service that allows you to build Trust Registries. 
 - [Sunbird RC Cord](https://github.com/Sunbird-RC/sunbird-rc-core) : Sunbird RC is an open-source software framework for rapidly building electronic registries, enable atestation capabilities, and build verifiable credentialling with minimal effort.
+- [XFSC Toolbox](https://www.gxfs.eu/set-of-services/) : German government sponsored project of open source-based software components were developed for the creation of federated digital ecosystems
 
 ## Ecosystems 
 
