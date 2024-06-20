@@ -26,14 +26,16 @@ A curated list of trust registry systems and adjacent technology.
 - [CIRA](https://dtlab-labcn.org/en/trust-registry-canadian-internet-registry-authority-cira/): Canadian Internet Registration Authority
 - [Cheqd](https://docs.cheqd.io/identity/advanced/trust-infrastructure) : Leverages the EBSI Trust Chain Model over DID Linked Resources. 
 - [Northern Block](https://northernblock.io/tag/trust-registry/) : Higher assurance trust registry leveraging DNSSec.
+- [Sphereon's OpenID Federation API](https://app.swaggerhub.com/apis/SphereonInt/OpenIDFederationAPI/1.0.0-d35#/) : This API allows the interaction with federation endpoints to manage and verify entities within a federation.
 - [Trinsic](https://docs.trinsic.id/reference/services/trust-registry-service/) : Trust Registry API using Trust Over IP's Trust Registry Protocol v1 spec.
 - [TRAIN](https://train.trust-scheme.de/info/) : The approach allows for the flexible definition, consideration and publication of trust lists as well as the verification of trust framework compliance (e.g., eIDAS including LoAs or other trust framework/schemes that can also be application/industry-specific) with different Levels of Assurance (LoA), using DNS(SEC) as a root trust anchor. 
-- [Who.is](https://www.whois.com/whois/whois.net) : A Whois domain lookup allows you to trace the ownership and tenure of a domain name. 
+- [Who.is](https://www.whois.com/whois/whois.net) : A Whois domain lookup allows you to trace the ownership and tenure of a domain name.
 
 ## SDK's 
 
 - [Cheqd SDK](https://github.com/cheqd/sdk) : A TypeScript SDK built with CosmJS to interact with cheqd network ledger
 - [Dock SDK](https://docs.dock.io/open-source-community/blockchain-sdk/trust-registry/sdk) : Blockchain based trust registry.
+- [Findynet]() : 
 - [Ory Hydra](https://www.ory.sh/docs/hydra/sdk/overview) : The Ory Hydra SDK allows for integration with a self-hosted Ory Hydra OAuth2 Server.
 - [Trinsic SDK](https://github.com/trinsic-id/sdk) : Trust Registry v1 API SDK
 - [TBD SSI Service](https://github.com/TBD54566975/ssi-service) : A golang service that allows you to build Trust Registries. 
