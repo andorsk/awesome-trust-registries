@@ -24,16 +24,16 @@ A curated list of trust registry systems and adjacent technology.
 
 - [EU Trust Lists](https://eidas.ec.europa.eu/efda/tl-browser/#/screen/home) : The Member States of the European Union and European Economic Area publish trusted lists of qualified trust service providers in accordance with the eIDAS Regulation.
 - [CIRA](https://dtlab-labcn.org/en/trust-registry-canadian-internet-registry-authority-cira/): Canadian Internet Registration Authority
-- [Cheqd](https://docs.cheqd.io/identity/advanced/trust-infrastructure) : Leverages the EBSI Trust Chain Model over DID Linked Resources. 
+- [cheqd](https://docs.cheqd.io/identity/studio/trust-registries) : Leverages the EBSI Trust Chain Model over DID Linked Resources. 
 - [Northern Block](https://northernblock.io/tag/trust-registry/) : Higher assurance trust registry leveraging DNSSec.
 - [Sphereon's OpenID Federation API](https://app.swaggerhub.com/apis/SphereonInt/OpenIDFederationAPI/1.0.0-d35#/) : This API allows the interaction with federation endpoints to manage and verify entities within a federation.
 - [Trinsic](https://docs.trinsic.id/reference/services/trust-registry-service/) : Trust Registry API using Trust Over IP's Trust Registry Protocol v1 spec.
 - [TRAIN](https://train.trust-scheme.de/info/) : The approach allows for the flexible definition, consideration and publication of trust lists as well as the verification of trust framework compliance (e.g., eIDAS including LoAs or other trust framework/schemes that can also be application/industry-specific) with different Levels of Assurance (LoA), using DNS(SEC) as a root trust anchor. 
 - [Who.is](https://www.whois.com/whois/whois.net) : A Whois domain lookup allows you to trace the ownership and tenure of a domain name.
 
-## SDK's 
+## SDKs 
 
-- [Cheqd SDK](https://github.com/cheqd/sdk) : A TypeScript SDK built with CosmJS to interact with cheqd network ledger
+- [Veramo SDK for cheqd](https://github.com/cheqd/did-provider-cheqd) : NPM package to enable developers to interact with the cheqd ledger using Veramo SDK, a modular and pluggable client app SDK for decentralised identity and SSI applications.
 - [Dock SDK](https://docs.dock.io/open-source-community/blockchain-sdk/trust-registry/sdk) : Blockchain based trust registry.
 - [Findynet]() : 
 - [Ory Hydra](https://www.ory.sh/docs/hydra/sdk/overview) : The Ory Hydra SDK allows for integration with a self-hosted Ory Hydra OAuth2 Server.
@@ -41,6 +41,10 @@ A curated list of trust registry systems and adjacent technology.
 - [TBD SSI Service](https://github.com/TBD54566975/ssi-service) : A golang service that allows you to build Trust Registries. 
 - [Sunbird RC Cord](https://github.com/Sunbird-RC/sunbird-rc-core) : Sunbird RC is an open-source software framework for rapidly building electronic registries, enable atestation capabilities, and build verifiable credentialling with minimal effort.
 - [XFSC Toolbox](https://www.gxfs.eu/set-of-services/) : German government sponsored project of open source-based software components were developed for the creation of federated digital ecosystems
+
+## APIs
+
+- [cheqd Studio](https://docs.cheqd.io/identity/getting-started/studio) : API product for interacting with the cheqd network, including creating Trust Registries using the EBSI Trust Chain model.
 
 ## Ecosystems 
 
