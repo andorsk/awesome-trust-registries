@@ -24,7 +24,7 @@ A curated list of trust registry systems and adjacent technology.
 
 - [EU Trust Lists](https://eidas.ec.europa.eu/efda/tl-browser/#/screen/home) : The Member States of the European Union and European Economic Area publish trusted lists of qualified trust service providers in accordance with the eIDAS Regulation.
 - [CIRA](https://dtlab-labcn.org/en/trust-registry-canadian-internet-registry-authority-cira/): Canadian Internet Registration Authority
-- [cheqd](https://docs.cheqd.io/identity/studio/trust-registries) : Leverages the EBSI Trust Chain Model over DID Linked Resources. 
+- [cheqd](https://docs.cheqd.io/product/studio/trust-registries) : Leverages the EBSI Trust Chain Model over DID Linked Resources. 
 - [Northern Block](https://northernblock.io/tag/trust-registry/) : Higher assurance trust registry leveraging DNSSec.
 - [Sphereon's OpenID Federation API](https://app.swaggerhub.com/apis/SphereonInt/OpenIDFederationAPI/1.0.0-d35#/) : This API allows the interaction with federation endpoints to manage and verify entities within a federation.
 - [Trinsic](https://docs.trinsic.id/reference/services/trust-registry-service/) : Trust Registry API using Trust Over IP's Trust Registry Protocol v1 spec.
@@ -44,7 +44,7 @@ A curated list of trust registry systems and adjacent technology.
 
 ## APIs
 
-- [cheqd Studio](https://docs.cheqd.io/identity/getting-started/studio) : API product for interacting with the cheqd network, including creating Trust Registries using the EBSI Trust Chain model.
+- [cheqd Studio](https://docs.cheqd.io/product/getting-started/studio) : API product for interacting with the cheqd network, including creating Trust Registries using the EBSI Trust Chain model.
 
 ## Ecosystems 
 
