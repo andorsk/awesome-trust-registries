@@ -30,6 +30,7 @@ A curated list of trust registry systems and adjacent technology.
 - [Trinsic](https://docs.trinsic.id/reference/services/trust-registry-service/) : Trust Registry API using Trust Over IP's Trust Registry Protocol v1 spec.
 - [TRAIN](https://train.trust-scheme.de/info/) : The approach allows for the flexible definition, consideration and publication of trust lists as well as the verification of trust framework compliance (e.g., eIDAS including LoAs or other trust framework/schemes that can also be application/industry-specific) with different Levels of Assurance (LoA), using DNS(SEC) as a root trust anchor. 
 - [Who.is](https://www.whois.com/whois/whois.net) : A Whois domain lookup allows you to trace the ownership and tenure of a domain name.
+- [Yoti](https://www.yoti.com/) : SSI Network
 
 ## SDKs 
 
@@ -49,6 +50,8 @@ A curated list of trust registry systems and adjacent technology.
 ## Ecosystems 
 
 - [Ethiopian Internet Foundation](https://www.internet.ee/) : Estonia's trust infrastructure.
+- [Trinsic Identity Acceptance Network](https://docs.trinsic.id/learn/concepts/ecosystems/) : SSI Ecosystem for Acceptance
+- [Velocity](https://www.velocitynetwork.foundation/) : Velocity Network Foundation® is a non-profit membership organization, hosting the leading workforce-tech and ed-tech vendors and solution providers, on a mission to build the next-gen data utility layer underlying the global labor market
 
 ## Workshops
 
