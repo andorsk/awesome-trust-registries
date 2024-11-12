@@ -49,7 +49,7 @@ A curated list of trust registry systems and adjacent technology.
 
 ## Ecosystems 
 
-- [Ethiopian Internet Foundation](https://www.internet.ee/) : Estonia's trust infrastructure.
+- [Estonian Internet Foundation](https://www.internet.ee/) : Estonia's trust infrastructure.
 - [Trinsic Identity Acceptance Network](https://docs.trinsic.id/learn/concepts/ecosystems/) : SSI Ecosystem for Acceptance
 - [Velocity](https://www.velocitynetwork.foundation/) : Velocity Network Foundation® is a non-profit membership organization, hosting the leading workforce-tech and ed-tech vendors and solution providers, on a mission to build the next-gen data utility layer underlying the global labor market
 - [GAN Foundation](https://gan.foundation/) : The Global Acceptance Network (GAN) Organization is a neutral, nonprofit entity dedicated to establishing a public utility for digital trust. Just as the Internet’s Domain Name System required global, multi-stakeholder governance through ICANN, the GAN Organization serves as the governing body for this new layer of digital trust infrastructure.
