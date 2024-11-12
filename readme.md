@@ -2,6 +2,8 @@
 
 A curated list of trust registry systems and adjacent technology.
 
+Disclaimer: Not all protocols and models are interoperable. 
+
 ## Protocols
 
 - [DNSsec](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions) : A suite of extension specifications by the Internet Engineering Task Force (IETF) for securing data exchanged in the Domain Name System (DNS) in Internet Protocol (IP) networks. Used sometimes for extending to Trust Registries.
