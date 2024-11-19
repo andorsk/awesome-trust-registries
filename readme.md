@@ -62,4 +62,8 @@ Disclaimer: Not all protocols and models are interoperable.
 - [Registration Operations Workshop (ROW)](https://regiops.net/registration-operations-workshop-row) : Informal industry conference that offers a platform for discussing the technical intricacies of registration operations within the domain name system.
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](contributing.md) first. We thank anyone that decides to contribute to this repository and encourage contributions.
+
+<a href="https://github.com/andorsk/awesome-tr/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=andorsk/awesome-tr" />
+</a>
