@@ -28,7 +28,8 @@ Disclaimer: Not all protocols and models are interoperable.
 - [CIRA](https://dtlab-labcn.org/en/trust-registry-canadian-internet-registry-authority-cira/): Canadian Internet Registration Authority
 - [cheqd](https://docs.cheqd.io/product/studio/trust-registries) : Leverages the EBSI Trust Chain Model over DID Linked Resources. 
 - [Northern Block](https://northernblock.io/tag/trust-registry/) : Higher assurance trust registry leveraging DNSSec.
-- [Sphereon's OpenID Federation API](https://app.swaggerhub.com/apis/SphereonInt/OpenIDFederationAPI/1.0.0-d35#/) : This API allows the interaction with federation endpoints to manage and verify entities within a federation.
+- [Sphereon's OpenID Federation Server](https://hub.docker.com/r/sphereon/openid-federation-server/) : Docker container serving REST APIs for publishing OpenID Federation entity statements
+- [Sphereon's OpenID Federation Admin Server](https://hub.docker.com/r/sphereon/openid-federation-admin-server/) : Docker container serving REST APIs for managing OpenID Federation entity statements
 - [Trinsic](https://docs.trinsic.id/reference/services/trust-registry-service/) : Trust Registry API using Trust Over IP's Trust Registry Protocol v1 spec.
 - [TRAIN](https://train.trust-scheme.de/info/) : The approach allows for the flexible definition, consideration and publication of trust lists as well as the verification of trust framework compliance (e.g., eIDAS including LoAs or other trust framework/schemes that can also be application/industry-specific) with different Levels of Assurance (LoA), using DNS(SEC) as a root trust anchor. 
 - [Who.is](https://www.whois.com/whois/whois.net) : A Whois domain lookup allows you to trace the ownership and tenure of a domain name.
@@ -38,8 +39,8 @@ Disclaimer: Not all protocols and models are interoperable.
 
 - [Veramo SDK for cheqd](https://github.com/cheqd/did-provider-cheqd) : NPM package to enable developers to interact with the cheqd ledger using Veramo SDK, a modular and pluggable client app SDK for decentralised identity and SSI applications.
 - [Dock SDK](https://docs.dock.io/open-source-community/blockchain-sdk/trust-registry/sdk) : Blockchain based trust registry.
-- [Findynet]() : 
 - [Ory Hydra](https://www.ory.sh/docs/hydra/sdk/overview) : The Ory Hydra SDK allows for integration with a self-hosted Ory Hydra OAuth2 Server.
+- [Sphereon](https://github.com/Sphereon-Opensource/OpenID-Federation) : OpenID Federation Monorepo
 - [Trinsic SDK](https://github.com/trinsic-id/sdk) : Trust Registry v1 API SDK
 - [TBD SSI Service](https://github.com/TBD54566975/ssi-service) : A golang service that allows you to build Trust Registries. 
 - [Sunbird RC Cord](https://github.com/Sunbird-RC/sunbird-rc-core) : Sunbird RC is an open-source software framework for rapidly building electronic registries, enable atestation capabilities, and build verifiable credentialling with minimal effort.
@@ -48,6 +49,7 @@ Disclaimer: Not all protocols and models are interoperable.
 ## APIs
 
 - [cheqd Studio](https://docs.cheqd.io/product/getting-started/studio) : API product for interacting with the cheqd network, including creating Trust Registries using the EBSI Trust Chain model.
+- [Sphereon](https://app.swaggerhub.com/apis/SphereonInt/OpenIDFederationAPI/) : OpenID Federation API
 
 ## Ecosystems 
 
