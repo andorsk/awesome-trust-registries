@@ -14,13 +14,16 @@ Disclaimer: Not all protocols and models are interoperable.
 - [Registry Lock](https://en.wikipedia.org/wiki/Registrar-Lock) : Status code set by registrar intended to combats domain hijacking.
 - [RDAP](https://www.icann.org/rdap) : IETF based protocol that enables users to access current registration data and was created as an eventual replacement for the WHOIS protocol. 
 - [RPKI](https://en.wikipedia.org/wiki/Resource_Public_Key_Infrastructure) : proves the association between specific IP address blocks or ASNs and the holders of those Internet number resources. 
+- [SAML](https://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-tech-overview-2.0.html) : An Identity Provider (IdP) can issue SAML Assertions about users, including metadata, which can be used to communicate affiliations.
 
 ## Models
 
 - [Credential Trust Establishment](https://identity.foundation/credential-trust-establishment/): A document model that describes whether a user should trust the issuer of this credential?. 
 - [EBSI Trust Chains](https://hub.ebsi.eu/get-started/design/trust-chain) : An interaction model which defines three roles: Root Trusted Accreditation Organisation (Root TAO), Trusted Accreditation Organisation(s) (TAOs), and Trusted Issuer(s) (TIs).
 - [x509 Certs](https://en.wikipedia.org/wiki/X.509): A standard defining the format of public key certificates used as a basis for HTTPS and TLS. 
-- [W3C Verified Issuer / Verifier Verifier List Data Model](https://w3c-ccg.github.io/verifiable-issuers-verifiers/) : This work focuses on how a party or its agent can decide whether or not to engage with a counterparty in a transaction. 
+- [W3C Verified Issuer / Verifier Verifier List Data Model](https://w3c-ccg.github.io/verifiable-issuers-verifiers/) : This work focuses on how a party or its agent can decide whether or not to engage with a counterparty in a transaction.
+- [IEEE Std 1484.2-2024 LER Ecosystem Standard](https://sagroups.ieee.org/1484-2/) : "ecosystem-scale issuing, holding, and presenting verifiable credentials for education, skills-based hiring, and career advancement"
+- [ISO mDL ISO/IEC 18013](https://www.iso.org/standard/69084.html) : The VICAL (Verified Issuer Certificate Authority List) is a list of trusted mobile drivers license issuers.
 
 ## Providers
 
@@ -57,6 +60,8 @@ Disclaimer: Not all protocols and models are interoperable.
 - [Trinsic Identity Acceptance Network](https://docs.trinsic.id/learn/concepts/ecosystems/) : SSI Ecosystem for Acceptance
 - [Velocity](https://www.velocitynetwork.foundation/) : Velocity Network Foundation® is a non-profit membership organization, hosting the leading workforce-tech and ed-tech vendors and solution providers, on a mission to build the next-gen data utility layer underlying the global labor market
 - [GAN Foundation](https://gan.foundation/) : The Global Acceptance Network (GAN) Organization is a neutral, nonprofit entity dedicated to establishing a public utility for digital trust. Just as the Internet’s Domain Name System required global, multi-stakeholder governance through ICANN, the GAN Organization serves as the governing body for this new layer of digital trust infrastructure.
+- [GAIN/Global Assured Identity Network](https://openid.net/cg/gain-poc/) : " a user-centric and high-trust identity paradigm: the Global Assured Identity Network (GAIN). Instead of logging in directly, an EndUser asks a trusted and regulated provider (e.g., their bank, telecommunications provider, or another regulated entity) to verify that they are the person and/or have the credentials that they claim" [[source](https://gainforum.org/GAINWhitePaper.pdf)]
+- [Gaia-X Ecosystems](https://gaia-x.eu/community/ecosystems/) : Integrated organizational data integration platform which leverages [GAIA-X Trust Framework](https://docs.gaia-x.eu/policy-rules-committee/trust-framework/22.10/). Non-profit
 - [Privado](https://marketplace.privado.id/ecosystem) : Privacy focused ecosystem that lets you launch your own credentials with ZKP, on-chain verification, SSI, and Transitive trust. 
 
 ## Workshops
