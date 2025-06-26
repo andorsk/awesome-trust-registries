@@ -9,10 +9,11 @@ Disclaimer: Not all protocols and models are interoperable.
 - [DNSsec](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions) : A suite of extension specifications by the Internet Engineering Task Force (IETF) for securing data exchanged in the Domain Name System (DNS) in Internet Protocol (IP) networks. Used sometimes for extending to Trust Registries.
 - [Extensible Provisioning Protocol](https://icannwiki.org/Extensible_Provisioning_Protocol) : an XML based protocol used by the Internet industry, particularly the registrars and registries in managing domain names.
 - [Open ID Federation \(OIDF\)](https://openid.net/specs/openid-federation-1_0.html) : A specification that describes how two Entities that would like to interact can establish trust between them by means of a trusted third party called a Trust Anchor.
-- [Trust Registry Protocol v2](https://github.com/trustoverip/tswg-trust-registry-protocol) : API based protocol that asks: `Does Entity X have Authorization Y, in the context of Ecosystem Governance Framework Z?`
+- [Trust Registry Query Protocol v2](https://github.com/trustoverip/tswg-trust-registry-protocol) : API based protocol that asks: `Does Entity X have Authorization Y, in the context of Ecosystem Governance Framework Z?`
 - [WHOIS](https://www.rfc-editor.org/rfc/rfc3912) :  WHOIS is a TCP-based transaction-oriented query/response protocol that is widely used to provide information services to Internet users.
 - [Registry Lock](https://en.wikipedia.org/wiki/Registrar-Lock) : Status code set by registrar intended to combats domain hijacking.
-- [RDAP](https://www.icann.org/rdap) : IETF based protocol that enables users to access current registration data and was created as an eventual replacement for the WHOIS protocol. 
+- [RDAP](https://www.icann.org/rdap) : IETF based protocol that enables users to access current registration data and was created as an eventual replacement for the WHOIS protocol.
+- [NANDA Registry](https://github.com/aidecentralized/nandapapers/blob/main/v0.3%20Beyond%20DNS%20-%20Unlocking%20the%20%20Internet%20of%20AI%20Agents%20via%20the%20NANDA%20Quilt%20of%20Registries%20and%20Verified%20AgentFacts.pdf) : Proposes a federated security architecture that combines NANDA’s minimal registry with the Agent Name Service (ANS) for dual-trust anchoring. This 
 - [RPKI](https://en.wikipedia.org/wiki/Resource_Public_Key_Infrastructure) : proves the association between specific IP address blocks or ASNs and the holders of those Internet number resources. 
 - [SAML](https://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-tech-overview-2.0.html) : An Identity Provider (IdP) can issue SAML Assertions about users, including metadata, which can be used to communicate affiliations.
 
@@ -27,9 +28,11 @@ Disclaimer: Not all protocols and models are interoperable.
 
 ## Providers
 
+- [AI Agent Store](https://aiagentstore.ai/reg) : AI Agent Registry
 - [EU Trust Lists](https://eidas.ec.europa.eu/efda/tl-browser/#/screen/home) : The Member States of the European Union and European Economic Area publish trusted lists of qualified trust service providers in accordance with the eIDAS Regulation.
 - [CIRA](https://dtlab-labcn.org/en/trust-registry-canadian-internet-registry-authority-cira/): Canadian Internet Registration Authority
-- [cheqd](https://docs.cheqd.io/product/studio/trust-registries) : Leverages the EBSI Trust Chain Model over DID Linked Resources. 
+- [cheqd](https://docs.cheqd.io/product/studio/trust-registries) : Leverages the EBSI Trust Chain Model over DID Linked Resources.
+- [Microsoft Entra Agent ID](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/announcing-microsoft-entra-agent-id-secure-and-manage-your-ai-agents/3827392) : SaaS delivered enterprise grade directory for agents.
 - [Northern Block](https://northernblock.io/tag/trust-registry/) : Higher assurance trust registry leveraging DNSSec.
 - [Sphereon's OpenID Federation Server](https://hub.docker.com/r/sphereon/openid-federation-server/) : Docker container serving REST APIs for publishing OpenID Federation entity statements
 - [Sphereon's OpenID Federation Admin Server](https://hub.docker.com/r/sphereon/openid-federation-admin-server/) : Docker container serving REST APIs for managing OpenID Federation entity statements
@@ -37,6 +40,15 @@ Disclaimer: Not all protocols and models are interoperable.
 - [TRAIN](https://train.trust-scheme.de/info/) : The approach allows for the flexible definition, consideration and publication of trust lists as well as the verification of trust framework compliance (e.g., eIDAS including LoAs or other trust framework/schemes that can also be application/industry-specific) with different Levels of Assurance (LoA), using DNS(SEC) as a root trust anchor. 
 - [Who.is](https://www.whois.com/whois/whois.net) : A Whois domain lookup allows you to trace the ownership and tenure of a domain name.
 - [Yoti](https://www.yoti.com/) : SSI Network
+
+### MCP Registries
+
+- [Cursor MCP Registry](cursor.directory/mcp) : Integrated with the Cursor IDE, offering MCP server browsing within the development environment.
+- [Official Registry](https://github.com/modelcontextprotocol/registry) : Maintained by the MCP project itself, this registry offers a centralized, community-driven repository of MCP server implementations, complete with metadata and RESTful API
+- [Mastra](https://mastra.ai/mcp-registry-registry) : A meta‑registry listing other existing MCP registries—essentially a registry of registries 
+- [MCP.so](mcp.so): A large community directory featuring over 3,000 MCP servers with quality filtering
+- [PulseMCP](pulsemcp.com) : Tracks MCP servers and checks compatibility with clients—every server is manually approved 
+- [Smithery AI](https://smithery.ai/) : A curated registry providing easy installation via CLI/Smithery API 
 
 ## SDKs 
 
