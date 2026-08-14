@@ -25,6 +25,8 @@ Disclaimer: Not all protocols and models are interoperable.
 - [W3C Verified Issuer / Verifier Verifier List Data Model](https://w3c-ccg.github.io/verifiable-issuers-verifiers/) : This work focuses on how a party or its agent can decide whether or not to engage with a counterparty in a transaction.
 - [IEEE Std 1484.2-2024 LER Ecosystem Standard](https://sagroups.ieee.org/1484-2/) : "ecosystem-scale issuing, holding, and presenting verifiable credentials for education, skills-based hiring, and career advancement"
 - [ISO mDL ISO/IEC 18013](https://www.iso.org/standard/69084.html) : The VICAL (Verified Issuer Certificate Authority List) is a list of trusted mobile drivers license issuers.
+- [Verifiable Trust Specification](https://verana-labs.github.io/verifiable-trust-spec/) : Defines how services and user agents prove who they are by presenting credentials that resolve against public trust registries (W3C Verifiable Credentials, DIDs, DIDComm).
+- [Verifiable Public Registry Specification](https://verana-labs.github.io/verifiable-trust-vpr-spec/) : Defines a public, permissionless registry system where anyone can create and govern a trust registry: ecosystems, credential schemas, permissions, and trust deposits.
 
 ## Providers
 
@@ -60,6 +62,7 @@ Disclaimer: Not all protocols and models are interoperable.
 - [TBD SSI Service](https://github.com/TBD54566975/ssi-service) : A golang service that allows you to build Trust Registries. 
 - [Sunbird RC Cord](https://github.com/Sunbird-RC/sunbird-rc-core) : Sunbird RC is an open-source software framework for rapidly building electronic registries, enable atestation capabilities, and build verifiable credentialling with minimal effort.
 - [XFSC Toolbox](https://www.gxfs.eu/set-of-services/) : German government sponsored project of open source-based software components were developed for the creation of federated digital ecosystems
+- [verre](https://github.com/verana-labs/verre) : TypeScript trust resolver that verifies services and credentials against Verana trust registries per the Verifiable Trust specification.
 
 ## APIs
 
@@ -75,6 +78,7 @@ Disclaimer: Not all protocols and models are interoperable.
 - [GAIN/Global Assured Identity Network](https://openid.net/cg/gain-poc/) : " a user-centric and high-trust identity paradigm: the Global Assured Identity Network (GAIN). Instead of logging in directly, an EndUser asks a trusted and regulated provider (e.g., their bank, telecommunications provider, or another regulated entity) to verify that they are the person and/or have the credentials that they claim" [[source](https://gainforum.org/GAINWhitePaper.pdf)]
 - [Gaia-X Ecosystems](https://gaia-x.eu/community/ecosystems/) : Integrated organizational data integration platform which leverages [GAIA-X Trust Framework](https://docs.gaia-x.eu/policy-rules-committee/trust-framework/22.10/). Non-profit
 - [Privado](https://marketplace.privado.id/ecosystem) : Privacy focused ecosystem that lets you launch your own credentials with ZKP, on-chain verification, SSI, and Transitive trust. 
+- [Verana](https://verana.io) : Open, public, decentralized trust infrastructure implementing the Verifiable Trust and Verifiable Public Registry specifications: trust registries, credential schemas, and trust resolution on a public ledger, stewarded by the [Verana Foundation](https://veranafoundation.org).
 
 ## Workshops
 
