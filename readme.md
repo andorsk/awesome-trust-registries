@@ -25,6 +25,7 @@ Disclaimer: Not all protocols and models are interoperable.
 - [W3C Verified Issuer / Verifier Verifier List Data Model](https://w3c-ccg.github.io/verifiable-issuers-verifiers/) : This work focuses on how a party or its agent can decide whether or not to engage with a counterparty in a transaction.
 - [IEEE Std 1484.2-2024 LER Ecosystem Standard](https://sagroups.ieee.org/1484-2/) : "ecosystem-scale issuing, holding, and presenting verifiable credentials for education, skills-based hiring, and career advancement"
 - [ISO mDL ISO/IEC 18013](https://www.iso.org/standard/69084.html) : The VICAL (Verified Issuer Certificate Authority List) is a list of trusted mobile drivers license issuers.
+- [ANS Trust Index](https://github.com/agentnameservice/trust-index-spec) : Specification for evaluating AI agents from Transparency Log data as a five-dimension Trust Vector (integrity, identity, solvency, behavior, safety) with a recommended delegation profile, delivered as a signed W3C Verifiable Credential.
 
 ## Providers
 
@@ -58,6 +59,7 @@ Disclaimer: Not all protocols and models are interoperable.
 - [Sphereon](https://github.com/Sphereon-Opensource/OpenID-Federation) : OpenID Federation Monorepo
 - [Trinsic SDK](https://github.com/trinsic-id/sdk) : Trust Registry v1 API SDK
 - [TBD SSI Service](https://github.com/TBD54566975/ssi-service) : A golang service that allows you to build Trust Registries. 
+- [Agent Trust Discovery](https://github.com/agentnameservice/agent-trust-discovery) : A golang reference implementation of the ANS Trust Index that indexes registered AI agents and serves explainable trust scores through a search API.
 - [Sunbird RC Cord](https://github.com/Sunbird-RC/sunbird-rc-core) : Sunbird RC is an open-source software framework for rapidly building electronic registries, enable atestation capabilities, and build verifiable credentialling with minimal effort.
 - [XFSC Toolbox](https://www.gxfs.eu/set-of-services/) : German government sponsored project of open source-based software components were developed for the creation of federated digital ecosystems
 
