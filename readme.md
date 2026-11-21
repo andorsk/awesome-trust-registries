@@ -49,6 +49,7 @@ Disclaimer: Not all protocols and models are interoperable.
 - [MCP.so](mcp.so): A large community directory featuring over 3,000 MCP servers with quality filtering
 - [PulseMCP](pulsemcp.com) : Tracks MCP servers and checks compatibility with clients—every server is manually approved 
 - [Smithery AI](https://smithery.ai/) : A curated registry providing easy installation via CLI/Smithery API 
+- [SyndiPath](https://syndipath.com) : Autonomous MCP server registry and interactive playground for discovering, testing, and integrating Model Context Protocol tools across 26 languages.
 
 ## SDKs 
 
